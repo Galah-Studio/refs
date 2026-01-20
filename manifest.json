@@ -18478,5 +18478,1989 @@
     },
     "license": "placeholder_unlicensed",
     "allowInRelease": false
+  },
+  {
+    "id": "doodle_0001",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182632.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0001_400.jpg",
+      "1280": "doodle/1280/pose_0001_1280.jpg",
+      "2048": "doodle/2048/pose_0001_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 105,
+        "height": 400
+      },
+      "1280": {
+        "width": 337,
+        "height": 1280
+      },
+      "2048": {
+        "width": 539,
+        "height": 2048
+      }
+    },
+    "hash": {
+      "400": "sha256:4fa60ee34697660c80d36791d41f62a2eb3f8d607d3b19f9564338128b90e095",
+      "1280": "sha256:10be8415380a18e58c1632c48af4b3123f99789e155a231ee14361bba00debc3",
+      "2048": "sha256:d4980c3458dd507b8984fda403b96a77693e94027dba3fa63eea54126d91bfbf"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0002",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182833.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0002_400.jpg",
+      "1280": "doodle/1280/pose_0002_1280.jpg",
+      "2048": "doodle/2048/pose_0002_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 318,
+        "height": 400
+      },
+      "1280": {
+        "width": 1016,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1626,
+        "height": 2048
+      }
+    },
+    "hash": {
+      "400": "sha256:e248911c6cb2ac1051b317d9225131a218d8bc438f9deb2df6728a446d4147af",
+      "1280": "sha256:d1b6a3eaab2ea362b842a4c59e39171e27e71da987e285d38e0a4a9e08c646ce",
+      "2048": "sha256:701f064faf2f70b6c6695380ce61d59e606a9c2d8d0bcbc242df3ab3965cece7"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0003",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835184486.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0003_400.jpg",
+      "1280": "doodle/1280/pose_0003_1280.jpg",
+      "2048": "doodle/2048/pose_0003_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 304
+      },
+      "1280": {
+        "width": 1280,
+        "height": 974
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1558
+      }
+    },
+    "hash": {
+      "400": "sha256:37c8d5b1a73fa579afe804377e2675d2f992c9798f731e0e3e339481491cba38",
+      "1280": "sha256:ed25663ef059cb53c2d4132aeea07749f9ffd12c1e5db7afe5d81fc774033829",
+      "2048": "sha256:c256a383aa7dc777951d71b1c159f6618a421dcc036d88346fb10fa5b60eded5"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0004",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182731.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0004_400.jpg",
+      "1280": "doodle/1280/pose_0004_1280.jpg",
+      "2048": "doodle/2048/pose_0004_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 286,
+        "height": 400
+      },
+      "1280": {
+        "width": 914,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1463,
+        "height": 2048
+      }
+    },
+    "hash": {
+      "400": "sha256:aa113a1c5305a5b17697c22155430e6d1b3d12b7f411927b9091f06dd3d5e2d7",
+      "1280": "sha256:cd134190717e01b646f378321e711f20f480f878a117012311612a7af82fe69f",
+      "2048": "sha256:409e5478cf46cb3383c8939102f503cfe044287d378491980594a7bf447226dc"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0005",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835621616.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0005_400.jpg",
+      "1280": "doodle/1280/pose_0005_1280.jpg",
+      "2048": "doodle/2048/pose_0005_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 300
+      },
+      "1280": {
+        "width": 1280,
+        "height": 960
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1536
+      }
+    },
+    "hash": {
+      "400": "sha256:6813114ac736a45f0a039ba24c6cd619612367c21dc74becf5310157cfe09e9a",
+      "1280": "sha256:c32c02f2d77f63ae33115b9f930f9925c8c2992c200d2c951f8eb2eec838cf51",
+      "2048": "sha256:7e454157464bf8a6357a4d125376c915f2b5a263462573a2c79281dba6df7de3"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0006",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835621617.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0006_400.jpg",
+      "1280": "doodle/1280/pose_0006_1280.jpg",
+      "2048": "doodle/2048/pose_0006_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 300
+      },
+      "1280": {
+        "width": 1280,
+        "height": 960
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1536
+      }
+    },
+    "hash": {
+      "400": "sha256:ad25f57e2e53aed7527208f19061918b3d0196429c499be2681412785f0f343f",
+      "1280": "sha256:5d2588a217461b5d1139b1fa2e2c11f55c9a849a8e68ec1c95c3c3f86a6d389b",
+      "2048": "sha256:0a51351ae8d8cde148201d472aca9cc315cb4e57c7a70c332b7f6c3ff0af933e"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0007",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346837110645.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0007_400.jpg",
+      "1280": "doodle/1280/pose_0007_1280.jpg",
+      "2048": "doodle/2048/pose_0007_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 300
+      },
+      "1280": {
+        "width": 1280,
+        "height": 960
+      },
+      "2048": {
+        "width": 2048,
+        "height": 1536
+      }
+    },
+    "hash": {
+      "400": "sha256:bebdf8cc8aad2237817d8dc49b0f9016dd0c33a53dc9c3f82648359926233db7",
+      "1280": "sha256:167462804ecb223fce3441a57ebfc153e2c3812b91f65c35324307eefae8a8da",
+      "2048": "sha256:8f570c32a1213a131d87057330a7d3d425fda16dca9ebbc49573a764fefa30f6"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0008",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835199102.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0008_400.jpg",
+      "1280": "doodle/1280/pose_0008_1280.jpg",
+      "2048": "doodle/2048/pose_0008_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 393
+      },
+      "1280": {
+        "width": 1280,
+        "height": 1256
+      },
+      "2048": {
+        "width": 2000,
+        "height": 1963
+      }
+    },
+    "hash": {
+      "400": "sha256:018a2a4d73ceeb5159e0e67a926200bed40a8289dd53b558fc487d332e664c98",
+      "1280": "sha256:aba879d282247aececb1eab617f33bf46828b66ab857c86111ca6f40c1a14822",
+      "2048": "sha256:09cf91d9d5ca1e51f2df1017e8dc632e9e9f8d6236db10b04eb2c433597cdcdb"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0009",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835214212.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0009_400.jpg",
+      "1280": "doodle/1280/pose_0009_1280.jpg",
+      "2048": "doodle/2048/pose_0009_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 292
+      },
+      "1280": {
+        "width": 1280,
+        "height": 934
+      },
+      "2048": {
+        "width": 2000,
+        "height": 1460
+      }
+    },
+    "hash": {
+      "400": "sha256:a21b9d4e486c81194114f750d25370d06e216dcb2d0e778e10705cd86faadeb9",
+      "1280": "sha256:23b78052229d8d25063e68b92b7771c648aa9ae1a7226b04ab3548a377716e03",
+      "2048": "sha256:aa98fa97f8b01c23e68b3c289b6eeeb41c9a6c6235be35d28c07c2a5074494d2"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0010",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835198499.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0010_400.jpg",
+      "1280": "doodle/1280/pose_0010_1280.jpg",
+      "2048": "doodle/2048/pose_0010_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 225,
+        "height": 400
+      },
+      "1280": {
+        "width": 720,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1125,
+        "height": 2000
+      }
+    },
+    "hash": {
+      "400": "sha256:d0bee24a6c80008bac42e3e14d3d5c728217bc5188f2be67d355e3b23a5db806",
+      "1280": "sha256:54d5a71a166d2d8cd470d3fb8762c9c3c44e568f32c05818b94ceea9b77c6d04",
+      "2048": "sha256:6079c3a2cb2204da4e737499260c143a8a17f4a3f29976ff60d636291cbfa818"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0011",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835232343.png",
+    "urls": {
+      "400": "doodle/400/pose_0011_400.jpg",
+      "1280": "doodle/1280/pose_0011_1280.jpg",
+      "2048": "doodle/2048/pose_0011_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 222,
+        "height": 400
+      },
+      "1280": {
+        "width": 711,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1063,
+        "height": 1915
+      }
+    },
+    "hash": {
+      "400": "sha256:d72558f27c9f3058ca109435d95add977e20caa14dc36cbc8b836d7e0b037f86",
+      "1280": "sha256:f1108d8e6cd655a17823f0938e3ab3222b38a756f850da4247555e917c87929c",
+      "2048": "sha256:a4702675059dfea733976cb8abe3253046a75da5add33ac0180c796695f1fd87"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0012",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835172581.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0012_400.jpg",
+      "1280": "doodle/1280/pose_0012_1280.jpg",
+      "2048": "doodle/2048/pose_0012_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 225,
+        "height": 400
+      },
+      "1280": {
+        "width": 720,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1080,
+        "height": 1920
+      }
+    },
+    "hash": {
+      "400": "sha256:0e41827c1a068581f89a033b00c5ddfbda0e40616e0c9f1ca3de21abf11bf2f3",
+      "1280": "sha256:64ccfa5f56f3359898dc1462f16ccf65be30b686a4c740590689329fb0dc25db",
+      "2048": "sha256:e1816827d2bfec9c7da2fdd459c3aa1cd0b4940ab82280bd0b32c6b61c7d8545"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0013",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835172713.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0013_400.jpg",
+      "1280": "doodle/1280/pose_0013_1280.jpg",
+      "2048": "doodle/2048/pose_0013_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 256,
+        "height": 400
+      },
+      "1280": {
+        "width": 820,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1874
+      }
+    },
+    "hash": {
+      "400": "sha256:c33d09b6d1898e452a8177552ee913c8d14a3031e3d964ce4896c097e929cab0",
+      "1280": "sha256:cefbdc4c67b040236905ea0a25063338a7ddfba6191581839af1cbaed7f78f69",
+      "2048": "sha256:152e0738b475a3fcfd14d93fcbe5221629b02742f0ea9afce77d5c837948427e"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0014",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182878_1.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0014_400.jpg",
+      "1280": "doodle/1280/pose_0014_1280.jpg",
+      "2048": "doodle/2048/pose_0014_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 290,
+        "height": 400
+      },
+      "1280": {
+        "width": 928,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1226,
+        "height": 1691
+      }
+    },
+    "hash": {
+      "400": "sha256:c7c9158022da1153eedb3cb54477b779c5ba2c796f4bb45ec5dfb8bb67e45a8f",
+      "1280": "sha256:c6ab315ac979c3dd542f59226b773793031d1666d20d146ed03b0f0e6b116b0d",
+      "2048": "sha256:57582bae8a9c2de14b94f5e5fd2a5f5ca4f72f2c378a96b8a54f213a30649af0"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0015",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835621632_1.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0015_400.jpg",
+      "1280": "doodle/1280/pose_0015_1280.jpg",
+      "2048": "doodle/2048/pose_0015_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 305,
+        "height": 400
+      },
+      "1280": {
+        "width": 975,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1204,
+        "height": 1580
+      }
+    },
+    "hash": {
+      "400": "sha256:34da55c6d4fb09d846978a75b70a685a73092f884f2483d93c115c537dd11772",
+      "1280": "sha256:8891e860c9e74bab205dccf549c5b1426ae8f3f115c7cedd2044fcf382190865",
+      "2048": "sha256:3790ab23665ec70e124780e738b404bf7df23f7720b103d870a9caad17febff5"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0016",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835198630.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0016_400.jpg",
+      "1280": "doodle/1280/pose_0016_1280.jpg",
+      "2048": "doodle/2048/pose_0016_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 309,
+        "height": 400
+      },
+      "1280": {
+        "width": 989,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1245,
+        "height": 1611
+      }
+    },
+    "hash": {
+      "400": "sha256:352341897fac7333451af42c76931bcb6228326b19152cd864d92e05bf2bcba0",
+      "1280": "sha256:583bcb1f19aa1172e85ebd0461a6f7571aa716fe973aaca43c6eeb0b782addab",
+      "2048": "sha256:d667b22fa76a46464e9ca95e3a4162d83ced2e940ef8d42fa6fdf220051f755d"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0017",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182655.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0017_400.jpg",
+      "1280": "doodle/1280/pose_0017_1280.jpg",
+      "2048": "doodle/2048/pose_0017_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 305,
+        "height": 400
+      },
+      "1280": {
+        "width": 976,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1220,
+        "height": 1600
+      }
+    },
+    "hash": {
+      "400": "sha256:453606eaeed3a595f6f161a720528e3c584bfd094dfea63238882b3670c1e602",
+      "1280": "sha256:cb6ceeed0397c07a834c0ae745b8ea7f95940a9a7e6d21fc3493b26bf73f931a",
+      "2048": "sha256:f2941db7692032576cf8b14289c3683baf3bdb9313da231e04db07b86bfd5dcc"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0018",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835199099.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0018_400.jpg",
+      "1280": "doodle/1280/pose_0018_1280.jpg",
+      "2048": "doodle/2048/pose_0018_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 309
+      },
+      "1280": {
+        "width": 1280,
+        "height": 990
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1237
+      }
+    },
+    "hash": {
+      "400": "sha256:475afdb6679ac4af351d2ccb75198922280beb8c868033e3c56eba37249ce8ea",
+      "1280": "sha256:20bdb417d456a01f954e6c7bbfd6c03ad8c91360f7745d85f50248d56cb3eba8",
+      "2048": "sha256:f6b9a93b8758413ecfe3650f21e3c14347ea21826a2970d184e1bf64a06a9b8d"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0019",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835231583.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0019_400.jpg",
+      "1280": "doodle/1280/pose_0019_1280.jpg",
+      "2048": "doodle/2048/pose_0019_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 292
+      },
+      "1280": {
+        "width": 1280,
+        "height": 934
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1168
+      }
+    },
+    "hash": {
+      "400": "sha256:732bed7b3297fdb7c8a6c789c7fc3990166ab5216714630e0a53762c36209c84",
+      "1280": "sha256:771fe7bf93b19b45787b8e2312dd940f5aef967a189789f03943b67195f75ee4",
+      "2048": "sha256:5787a12ea71c280d331b23860afb4d35688a59bd35ad5d9697d70ae5229dc3ae"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0020",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835214196.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0020_400.jpg",
+      "1280": "doodle/1280/pose_0020_1280.jpg",
+      "2048": "doodle/2048/pose_0020_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 309
+      },
+      "1280": {
+        "width": 1280,
+        "height": 989
+      },
+      "2048": {
+        "width": 1600,
+        "height": 1236
+      }
+    },
+    "hash": {
+      "400": "sha256:ef2b3538780c76b4b54efa7c8666d70e39af422fc0071ed7760d3552df3e7c34",
+      "1280": "sha256:039006496a9e0f55c295591e0fa84efcc15c7e8778f037f08284e6e6e0ce249a",
+      "2048": "sha256:bd1fa4ee4b17074024d0e16f7e32b78a82babb0343ea30afc59c25fae7152471"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0021",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182636_1.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0021_400.jpg",
+      "1280": "doodle/1280/pose_0021_1280.jpg",
+      "2048": "doodle/2048/pose_0021_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 300,
+        "height": 400
+      },
+      "1280": {
+        "width": 960,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1200,
+        "height": 1600
+      }
+    },
+    "hash": {
+      "400": "sha256:e195b03f2d66d4079c9ec92dd859dfb1080183e618ea2d243f78a78ccc5a2376",
+      "1280": "sha256:b4d8a9e648189bf5643f21180faf47690150a1dfcd22e8b53ab676ecbc38868b",
+      "2048": "sha256:ef0220417250e17bb6fc33ac883ac1fe715c051eb7f48ba5aa08e2478e0d7dd5"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0022",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835232286.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0022_400.jpg",
+      "1280": "doodle/1280/pose_0022_1280.jpg",
+      "2048": "doodle/2048/pose_0022_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 286,
+        "height": 400
+      },
+      "1280": {
+        "width": 914,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1125,
+        "height": 1576
+      }
+    },
+    "hash": {
+      "400": "sha256:15a79a3a22a8806a72f3edabebd5346b9021b7ebbef2c21601ae7e2b2176a7d6",
+      "1280": "sha256:17cfe9e10a68bc7660574d8a111f8fb9eae63da377fd25954b75ab3e47db4041",
+      "2048": "sha256:b3675c82735d02c7c95dc8d18b688d97b05bf0f2815f1d50fd2de13cc6770ab4"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0023",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835230735.png",
+    "urls": {
+      "400": "doodle/400/pose_0023_400.jpg",
+      "1280": "doodle/1280/pose_0023_1280.jpg",
+      "2048": "doodle/2048/pose_0023_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 218,
+        "height": 400
+      },
+      "1280": {
+        "width": 699,
+        "height": 1280
+      },
+      "2048": {
+        "width": 835,
+        "height": 1530
+      }
+    },
+    "hash": {
+      "400": "sha256:e6ede455033e67e64b200b9c5e755b5f4dbc09e92f67dd2aacd480e92b4563aa",
+      "1280": "sha256:321e8af4dba8d7fefa5d5e538e6eca22c51e491e68a361a40f73cf4e226e8455",
+      "2048": "sha256:61424daf50e92ef7cb2a726c92d0b0911b2f7d5fa48582e0c7e02ae13e3c7d86"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0024",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835208145_1.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0024_400.jpg",
+      "1280": "doodle/1280/pose_0024_1280.jpg",
+      "2048": "doodle/2048/pose_0024_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 299,
+        "height": 400
+      },
+      "1280": {
+        "width": 956,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1116,
+        "height": 1495
+      }
+    },
+    "hash": {
+      "400": "sha256:c6dd2c4fd29bb5da19eea0eb37f9f83d98d1ced443fa33e822e3a9525ef5066e",
+      "1280": "sha256:75d45f1a213b2a8b095a9945c66bc0615d128a73c0cae6bd57be71cc19109a1f",
+      "2048": "sha256:1e17b2323c4e135b0910572e93cddbac8f7039e0719cd1e59363f865fc7ba3f8"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0025",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182874.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0025_400.jpg",
+      "1280": "doodle/1280/pose_0025_1280.jpg",
+      "2048": "doodle/2048/pose_0025_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 256,
+        "height": 400
+      },
+      "1280": {
+        "width": 819,
+        "height": 1280
+      },
+      "2048": {
+        "width": 960,
+        "height": 1500
+      }
+    },
+    "hash": {
+      "400": "sha256:8869cfe93805b9ecfbfe5888b08d888bc63d25c85df7552d04152f40e9a11295",
+      "1280": "sha256:57c08108180af8d11de8aaf396801d7af625a5c7e453b1430bace739d5c1a193",
+      "2048": "sha256:fb7b29473dae472ce5b50b88ce245e08ce73baf619f59cfdbab38292ad38b5e8"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0026",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835198834.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0026_400.jpg",
+      "1280": "doodle/1280/pose_0026_1280.jpg",
+      "2048": "doodle/2048/pose_0026_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 278,
+        "height": 400
+      },
+      "1280": {
+        "width": 889,
+        "height": 1280
+      },
+      "2048": {
+        "width": 1018,
+        "height": 1466
+      }
+    },
+    "hash": {
+      "400": "sha256:8539a19b71df95101e249ba59a8f056170188ac9c80be6ca48e1ca947bd7ac53",
+      "1280": "sha256:70903582d6a78329dc6d4f7176ded398cc26892870c7f59632bba8f0317cba30",
+      "2048": "sha256:54cd341fc3b74d4947e29ebb07e0d6b5ce1e83eb46c74f03cf9f96e65a4fdb53"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0027",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835202162_1.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0027_400.jpg",
+      "1280": "doodle/1280/pose_0027_1280.jpg",
+      "2048": "doodle/2048/pose_0027_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 357
+      },
+      "1280": {
+        "width": 1280,
+        "height": 1142
+      },
+      "2048": {
+        "width": 1440,
+        "height": 1285
+      }
+    },
+    "hash": {
+      "400": "sha256:206fd9b4fd454eab9c7f208e54fe3509a7f1dc3389854b4073573bf8498633a2",
+      "1280": "sha256:d0b1e394783a8a8b5fbaa3ba512e3bd5272344472b0142b910f76764d92f021c",
+      "2048": "sha256:ace6cac889f8851e6d65a6c5e94239abc22689730d40edf87acf52f9f786dba6"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0028",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835268830.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0028_400.jpg",
+      "1280": "doodle/1280/pose_0028_1280.jpg",
+      "2048": "doodle/2048/pose_0028_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 281
+      },
+      "1280": {
+        "width": 1280,
+        "height": 900
+      },
+      "2048": {
+        "width": 1365,
+        "height": 960
+      }
+    },
+    "hash": {
+      "400": "sha256:d09b8992d2c0940c751e5a9539b534cd6507d377ef7dd287d0eada62ac308dd4",
+      "1280": "sha256:310f243a8869fdd21b50367719a63d9cf26b9528f36e798ddd62b9771bfed991",
+      "2048": "sha256:484ad0406268ce788b3913f31833bb54e262a8c5bba9ddb25ce3654ec2f34323"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0029",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182839.png",
+    "urls": {
+      "400": "doodle/400/pose_0029_400.jpg",
+      "1280": "doodle/1280/pose_0029_1280.jpg",
+      "2048": "doodle/2048/pose_0029_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 332,
+        "height": 400
+      },
+      "1280": {
+        "width": 750,
+        "height": 903
+      },
+      "2048": {
+        "width": 750,
+        "height": 903
+      }
+    },
+    "hash": {
+      "400": "sha256:2da87dfff6387688fab49c767855f52b1ad00cebf28f5eac3165df1e3b021dda",
+      "1280": "sha256:7b2846ff1817e6f0ea2adb8d3701e9e6c584dc2da3c1524f6668c80fefd87ac0",
+      "2048": "sha256:7b2846ff1817e6f0ea2adb8d3701e9e6c584dc2da3c1524f6668c80fefd87ac0"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0030",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835184504.png",
+    "urls": {
+      "400": "doodle/400/pose_0030_400.jpg",
+      "1280": "doodle/1280/pose_0030_1280.jpg",
+      "2048": "doodle/2048/pose_0030_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 300,
+        "height": 400
+      },
+      "1280": {
+        "width": 960,
+        "height": 1280
+      },
+      "2048": {
+        "width": 983,
+        "height": 1310
+      }
+    },
+    "hash": {
+      "400": "sha256:dbda0ac4d4e15a93fb770d88e0d4345e306b0bb98fb5c7ef906ad441a7f7f112",
+      "1280": "sha256:31e796df8e2268eacaa6e20442f153abf19285557ce5d47cf833aa0e5c76aebe",
+      "2048": "sha256:3c57ffeee97b0dadcb1ed9fa4eb92da3a5d7299273e2b6705b3846fceb295d0d"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0031",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182907.png",
+    "urls": {
+      "400": "doodle/400/pose_0031_400.jpg",
+      "1280": "doodle/1280/pose_0031_1280.jpg",
+      "2048": "doodle/2048/pose_0031_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 300,
+        "height": 400
+      },
+      "1280": {
+        "width": 960,
+        "height": 1280
+      },
+      "2048": {
+        "width": 983,
+        "height": 1310
+      }
+    },
+    "hash": {
+      "400": "sha256:b9970b478355ff282816a1b3f19f6dde87d96a1da552ec335c4c563d27de237a",
+      "1280": "sha256:053f5a95842f658343bfeb1bf717ff99d8246d5564de8a648c246ead92f9a8a2",
+      "2048": "sha256:a0f001da0ce3a4697f3d5d2963dc7e0a533952de4f439a5e0293a3b121b7e563"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0032",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182887.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0032_400.jpg",
+      "1280": "doodle/1280/pose_0032_1280.jpg",
+      "2048": "doodle/2048/pose_0032_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 225,
+        "height": 400
+      },
+      "1280": {
+        "width": 720,
+        "height": 1280
+      },
+      "2048": {
+        "width": 736,
+        "height": 1308
+      }
+    },
+    "hash": {
+      "400": "sha256:209bd8515c9328e2e3f0802fd712494a26ea5b9243dce7d6e765a924aef72187",
+      "1280": "sha256:d315a60ac80777cccbcda6e7bcbd20e75a7f0da7da194ee5845d50e49d828655",
+      "2048": "sha256:a96308ef6a688e4a1dd46f1eff6ec9a4bfde3663f34a9b1e2aae546e4e04134e"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0033",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835232289.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0033_400.jpg",
+      "1280": "doodle/1280/pose_0033_1280.jpg",
+      "2048": "doodle/2048/pose_0033_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 396,
+        "height": 400
+      },
+      "1280": {
+        "width": 1233,
+        "height": 1247
+      },
+      "2048": {
+        "width": 1233,
+        "height": 1247
+      }
+    },
+    "hash": {
+      "400": "sha256:bbd4ef9d3e9459471417c3f30b8d0e9a0dab54351e8dffd931744d1b972f6289",
+      "1280": "sha256:15b120b138c27d8d8c4ace70584b38b9ac37192685741ece3c306ad360d24684",
+      "2048": "sha256:15b120b138c27d8d8c4ace70584b38b9ac37192685741ece3c306ad360d24684"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0034",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835621633.png",
+    "urls": {
+      "400": "doodle/400/pose_0034_400.jpg",
+      "1280": "doodle/1280/pose_0034_1280.jpg",
+      "2048": "doodle/2048/pose_0034_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 225
+      },
+      "1280": {
+        "width": 1280,
+        "height": 720
+      },
+      "2048": {
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "hash": {
+      "400": "sha256:33b48b326ffc06474bc6472dfd3e0ddb94ecb97dd87a97132b731744ae0b36dd",
+      "1280": "sha256:7c04cce43dc8b3542ba92612fb603a5a3592f049bfa7b1a1aed0d954b95e1df1",
+      "2048": "sha256:7c04cce43dc8b3542ba92612fb603a5a3592f049bfa7b1a1aed0d954b95e1df1"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0035",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835198629.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0035_400.jpg",
+      "1280": "doodle/1280/pose_0035_1280.jpg",
+      "2048": "doodle/2048/pose_0035_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 310
+      },
+      "1280": {
+        "width": 1269,
+        "height": 983
+      },
+      "2048": {
+        "width": 1269,
+        "height": 983
+      }
+    },
+    "hash": {
+      "400": "sha256:91a2784c2095e9525710ae7b40b5afb10221d95902c10b47c68194d82e48276c",
+      "1280": "sha256:15a8562df0c1b060a226473b0cc3a837732c341291b54135600818dac5531415",
+      "2048": "sha256:15a8562df0c1b060a226473b0cc3a837732c341291b54135600818dac5531415"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0036",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182649.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0036_400.jpg",
+      "1280": "doodle/1280/pose_0036_1280.jpg",
+      "2048": "doodle/2048/pose_0036_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 296
+      },
+      "1280": {
+        "width": 1144,
+        "height": 846
+      },
+      "2048": {
+        "width": 1144,
+        "height": 846
+      }
+    },
+    "hash": {
+      "400": "sha256:d7bcf10d15fbc00d9615099a053a763cf427a91747eb1489c16db8bedf39bba4",
+      "1280": "sha256:fb1ae97b9bcd82a9159912c89d620e2799519f336ccda831f1653b1a0bd7cd65",
+      "2048": "sha256:fb1ae97b9bcd82a9159912c89d620e2799519f336ccda831f1653b1a0bd7cd65"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0037",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835312432.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0037_400.jpg",
+      "1280": "doodle/1280/pose_0037_1280.jpg",
+      "2048": "doodle/2048/pose_0037_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 266
+      },
+      "1280": {
+        "width": 1164,
+        "height": 773
+      },
+      "2048": {
+        "width": 1164,
+        "height": 773
+      }
+    },
+    "hash": {
+      "400": "sha256:3f5777aac1893944c8b19e07c2dfc9d4600ad3731f62275fe39e6d12ce0f53f7",
+      "1280": "sha256:dcb74a680c38beea761ca9158d4efcadd2b8bd77fcac0e17a5255dc56524b6a6",
+      "2048": "sha256:dcb74a680c38beea761ca9158d4efcadd2b8bd77fcac0e17a5255dc56524b6a6"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0038",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/.venv_refs/images/imagehash.png",
+    "urls": {
+      "400": "doodle/400/pose_0038_400.jpg",
+      "1280": "doodle/1280/pose_0038_1280.jpg",
+      "2048": "doodle/2048/pose_0038_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 193
+      },
+      "1280": {
+        "width": 936,
+        "height": 451
+      },
+      "2048": {
+        "width": 936,
+        "height": 451
+      }
+    },
+    "hash": {
+      "400": "sha256:845491584547c817ae99173be2df15790049964bba08c7e8bd498d00ea061464",
+      "1280": "sha256:fc9f9d2d451468b73ba2a260e05d762a05eca9b78bfd9a433b552a566bc54701",
+      "2048": "sha256:fc9f9d2d451468b73ba2a260e05d762a05eca9b78bfd9a433b552a566bc54701"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0039",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835184506.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0039_400.jpg",
+      "1280": "doodle/1280/pose_0039_1280.jpg",
+      "2048": "doodle/2048/pose_0039_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 300
+      },
+      "1280": {
+        "width": 1200,
+        "height": 900
+      },
+      "2048": {
+        "width": 1200,
+        "height": 900
+      }
+    },
+    "hash": {
+      "400": "sha256:333ebed52225669f61537cd30f9ef3b2ef628649812a796d770d2f398da87548",
+      "1280": "sha256:286bf7fb75dc1d76ac6352bdf7fa94249ff6c7590a214d9462c3d8f78bd2b18a",
+      "2048": "sha256:286bf7fb75dc1d76ac6352bdf7fa94249ff6c7590a214d9462c3d8f78bd2b18a"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0040",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835198622.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0040_400.jpg",
+      "1280": "doodle/1280/pose_0040_1280.jpg",
+      "2048": "doodle/2048/pose_0040_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 210
+      },
+      "1280": {
+        "width": 1200,
+        "height": 630
+      },
+      "2048": {
+        "width": 1200,
+        "height": 630
+      }
+    },
+    "hash": {
+      "400": "sha256:96538ca06d8047c634727902383c0eb9b880026ae3e5f516625e2115bc0e9a70",
+      "1280": "sha256:c8e1afe0e7bb08d490cfd2533f3f68cbcee33e74d39c1ce3e99fa66cf75346f4",
+      "2048": "sha256:c8e1afe0e7bb08d490cfd2533f3f68cbcee33e74d39c1ce3e99fa66cf75346f4"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0041",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182646_1.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0041_400.jpg",
+      "1280": "doodle/1280/pose_0041_1280.jpg",
+      "2048": "doodle/2048/pose_0041_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 262,
+        "height": 400
+      },
+      "1280": {
+        "width": 772,
+        "height": 1180
+      },
+      "2048": {
+        "width": 772,
+        "height": 1180
+      }
+    },
+    "hash": {
+      "400": "sha256:7b1aae49a56a2788fac1b662284b91513612c2101280d59451a7c8503c870f96",
+      "1280": "sha256:0d66ec6278331f408135f8637c9402f9eecc9e87fc262ffe9219859c81d2ce95",
+      "2048": "sha256:0d66ec6278331f408135f8637c9402f9eecc9e87fc262ffe9219859c81d2ce95"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0042",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182787.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0042_400.jpg",
+      "1280": "doodle/1280/pose_0042_1280.jpg",
+      "2048": "doodle/2048/pose_0042_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 268,
+        "height": 400
+      },
+      "1280": {
+        "width": 732,
+        "height": 1092
+      },
+      "2048": {
+        "width": 732,
+        "height": 1092
+      }
+    },
+    "hash": {
+      "400": "sha256:a69ef1c56518992c5a5dd08ef07d1f8d7f456a12172dd669df6f27a239c67874",
+      "1280": "sha256:eb0be5457ec76b37025a8dbff92fd5f6453f97fc77bb0ebc29d17df742c73e6f",
+      "2048": "sha256:eb0be5457ec76b37025a8dbff92fd5f6453f97fc77bb0ebc29d17df742c73e6f"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0043",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182642.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0043_400.jpg",
+      "1280": "doodle/1280/pose_0043_1280.jpg",
+      "2048": "doodle/2048/pose_0043_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 225,
+        "height": 400
+      },
+      "1280": {
+        "width": 640,
+        "height": 1136
+      },
+      "2048": {
+        "width": 640,
+        "height": 1136
+      }
+    },
+    "hash": {
+      "400": "sha256:20cd0484e62622ce74f476ee9e941f89580439fc4c46c009a5c799961db8c07a",
+      "1280": "sha256:4f744c90f2d7e4244d24a2941efb02261e5ee0afda5f61171934689b349db7a0",
+      "2048": "sha256:4f744c90f2d7e4244d24a2941efb02261e5ee0afda5f61171934689b349db7a0"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0044",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835172521.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0044_400.jpg",
+      "1280": "doodle/1280/pose_0044_1280.jpg",
+      "2048": "doodle/2048/pose_0044_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 300,
+        "height": 400
+      },
+      "1280": {
+        "width": 845,
+        "height": 1127
+      },
+      "2048": {
+        "width": 845,
+        "height": 1127
+      }
+    },
+    "hash": {
+      "400": "sha256:2177711ce918aba8b560b6c5c9efc6748d08cccbc5d6421aca39819530596c8c",
+      "1280": "sha256:ed893d363b67dcc5449bb23bc931bebd2f0fc1386afd7003ad2be9c8dd838c92",
+      "2048": "sha256:ed893d363b67dcc5449bb23bc931bebd2f0fc1386afd7003ad2be9c8dd838c92"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0045",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835214217.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0045_400.jpg",
+      "1280": "doodle/1280/pose_0045_1280.jpg",
+      "2048": "doodle/2048/pose_0045_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 275
+      },
+      "1280": {
+        "width": 1123,
+        "height": 772
+      },
+      "2048": {
+        "width": 1123,
+        "height": 772
+      }
+    },
+    "hash": {
+      "400": "sha256:1ac091de0a3caf9b26626d6128e7b236d072f737c2cfc45c333d884f4757b467",
+      "1280": "sha256:202dceaa71799ea1ae17a4792898e2b7391faef362f1c5a80978894686448c14",
+      "2048": "sha256:202dceaa71799ea1ae17a4792898e2b7391faef362f1c5a80978894686448c14"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0046",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182790_1.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0046_400.jpg",
+      "1280": "doodle/1280/pose_0046_1280.jpg",
+      "2048": "doodle/2048/pose_0046_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 219,
+        "height": 400
+      },
+      "1280": {
+        "width": 604,
+        "height": 1103
+      },
+      "2048": {
+        "width": 604,
+        "height": 1103
+      }
+    },
+    "hash": {
+      "400": "sha256:0479761ffc59b1ce95694cc0e522c739688d7d6ce5c34a7065341c99fa2a7074",
+      "1280": "sha256:4fa5999f67d62b7e5cc6f1296342e93dbf8f2fd5118fa32e1602f9971cfd37be",
+      "2048": "sha256:4fa5999f67d62b7e5cc6f1296342e93dbf8f2fd5118fa32e1602f9971cfd37be"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0047",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835202181_1.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0047_400.jpg",
+      "1280": "doodle/1280/pose_0047_1280.jpg",
+      "2048": "doodle/2048/pose_0047_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 290
+      },
+      "1280": {
+        "width": 1100,
+        "height": 797
+      },
+      "2048": {
+        "width": 1100,
+        "height": 797
+      }
+    },
+    "hash": {
+      "400": "sha256:42c7354185b0d3e13342cc4c5c854d709d87cf054223b9f14386a1541c14fcef",
+      "1280": "sha256:057a2e68d803425f18f7c47caf0f0baf2c95fcc9e16455d6a46235dac0015a7c",
+      "2048": "sha256:057a2e68d803425f18f7c47caf0f0baf2c95fcc9e16455d6a46235dac0015a7c"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0048",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835232271.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0048_400.jpg",
+      "1280": "doodle/1280/pose_0048_1280.jpg",
+      "2048": "doodle/2048/pose_0048_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 309,
+        "height": 400
+      },
+      "1280": {
+        "width": 850,
+        "height": 1100
+      },
+      "2048": {
+        "width": 850,
+        "height": 1100
+      }
+    },
+    "hash": {
+      "400": "sha256:fe5d613028f3a5725c7ad36b06cf888f732a21ec06ad4b56af58bf21ca7e5281",
+      "1280": "sha256:6e29c98e506741d97f6595562e5702cc9bb3c849f530a4117ec1a153efd4b2d8",
+      "2048": "sha256:6e29c98e506741d97f6595562e5702cc9bb3c849f530a4117ec1a153efd4b2d8"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0049",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835172520.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0049_400.jpg",
+      "1280": "doodle/1280/pose_0049_1280.jpg",
+      "2048": "doodle/2048/pose_0049_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 305,
+        "height": 400
+      },
+      "1280": {
+        "width": 813,
+        "height": 1065
+      },
+      "2048": {
+        "width": 813,
+        "height": 1065
+      }
+    },
+    "hash": {
+      "400": "sha256:085f4fca245a049f319ba62341a5ddad64abaef3cabd2f2ceaf580799c84eec6",
+      "1280": "sha256:252d50465f25da781f819cd94188d56b341a3cad6bc7d741939d1647697fec8b",
+      "2048": "sha256:252d50465f25da781f819cd94188d56b341a3cad6bc7d741939d1647697fec8b"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0050",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182828.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0050_400.jpg",
+      "1280": "doodle/1280/pose_0050_1280.jpg",
+      "2048": "doodle/2048/pose_0050_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 399
+      },
+      "1280": {
+        "width": 1082,
+        "height": 1080
+      },
+      "2048": {
+        "width": 1082,
+        "height": 1080
+      }
+    },
+    "hash": {
+      "400": "sha256:8a4c79b09b049e3715b7b8efbde88820ffdb34cfd20c6a94caea2a0a8a288a85",
+      "1280": "sha256:4a6e942059866a4b7d76c928c324e42da36c872019bab26f624208cdd3239d6b",
+      "2048": "sha256:4a6e942059866a4b7d76c928c324e42da36c872019bab26f624208cdd3239d6b"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0051",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835202166.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0051_400.jpg",
+      "1280": "doodle/1280/pose_0051_1280.jpg",
+      "2048": "doodle/2048/pose_0051_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 307
+      },
+      "1280": {
+        "width": 1080,
+        "height": 828
+      },
+      "2048": {
+        "width": 1080,
+        "height": 828
+      }
+    },
+    "hash": {
+      "400": "sha256:806be98c8a02bc2a0480658990a303750500ab28aa9d66a25e6d1527e0e02fd8",
+      "1280": "sha256:d4afc3d7937e758f8ff9b2bba57371dcec0b4a56bf493f5b9f38cf3b302ce5c6",
+      "2048": "sha256:d4afc3d7937e758f8ff9b2bba57371dcec0b4a56bf493f5b9f38cf3b302ce5c6"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0052",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835202157.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0052_400.jpg",
+      "1280": "doodle/1280/pose_0052_1280.jpg",
+      "2048": "doodle/2048/pose_0052_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 295
+      },
+      "1280": {
+        "width": 1080,
+        "height": 796
+      },
+      "2048": {
+        "width": 1080,
+        "height": 796
+      }
+    },
+    "hash": {
+      "400": "sha256:5acd54c8343d65e7b5277298bc02472d23a2b2be4d9a77967b29856217b2dec7",
+      "1280": "sha256:270fed3af1ac2d46da3e640824fa55c325672a1ea25ee66c38e669658880ef10",
+      "2048": "sha256:270fed3af1ac2d46da3e640824fa55c325672a1ea25ee66c38e669658880ef10"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0053",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835208142.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0053_400.jpg",
+      "1280": "doodle/1280/pose_0053_1280.jpg",
+      "2048": "doodle/2048/pose_0053_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 400
+      },
+      "1280": {
+        "width": 1080,
+        "height": 1080
+      },
+      "2048": {
+        "width": 1080,
+        "height": 1080
+      }
+    },
+    "hash": {
+      "400": "sha256:11cade9f2068da3c391303748ddda6f414a68b6c80274882758c8b9bb506a7e8",
+      "1280": "sha256:ae8ddbc07ed126495908f22d2a888be15a9e094d4f8ba4ecbe69b85832a99f52",
+      "2048": "sha256:ae8ddbc07ed126495908f22d2a888be15a9e094d4f8ba4ecbe69b85832a99f52"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0054",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835230734.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0054_400.jpg",
+      "1280": "doodle/1280/pose_0054_1280.jpg",
+      "2048": "doodle/2048/pose_0054_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 239,
+        "height": 400
+      },
+      "1280": {
+        "width": 641,
+        "height": 1075
+      },
+      "2048": {
+        "width": 641,
+        "height": 1075
+      }
+    },
+    "hash": {
+      "400": "sha256:323efb5f12da15dc26d4817189cc63dea0baaa0751521b3289d86b6528d607e6",
+      "1280": "sha256:7f3da07b51ed9790ca778d992123a728c17e30ecd3d8589674a7762cd2530bbe",
+      "2048": "sha256:7f3da07b51ed9790ca778d992123a728c17e30ecd3d8589674a7762cd2530bbe"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0055",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835312176.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0055_400.jpg",
+      "1280": "doodle/1280/pose_0055_1280.jpg",
+      "2048": "doodle/2048/pose_0055_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 273
+      },
+      "1280": {
+        "width": 1073,
+        "height": 731
+      },
+      "2048": {
+        "width": 1073,
+        "height": 731
+      }
+    },
+    "hash": {
+      "400": "sha256:d1fa28add42b9c4f53118cfda6e3fe6cce42f9dc6c39d5921a43cfb173448a97",
+      "1280": "sha256:b1a73ef9b6f2fed5c6c0b271c09d3730c97755eb5da124f622e066366fc5fe83",
+      "2048": "sha256:b1a73ef9b6f2fed5c6c0b271c09d3730c97755eb5da124f622e066366fc5fe83"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0056",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835232351.png",
+    "urls": {
+      "400": "doodle/400/pose_0056_400.jpg",
+      "1280": "doodle/1280/pose_0056_1280.jpg",
+      "2048": "doodle/2048/pose_0056_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 267,
+        "height": 400
+      },
+      "1280": {
+        "width": 696,
+        "height": 1043
+      },
+      "2048": {
+        "width": 696,
+        "height": 1043
+      }
+    },
+    "hash": {
+      "400": "sha256:f4d41f0d1661eeea7489e370086baaeddf772178e37e9e292d2dfa4292168d4d",
+      "1280": "sha256:f69d97a8e7ec9b7573e8545ebc85028a0bc2654899156b9fbeeec48096919d73",
+      "2048": "sha256:f69d97a8e7ec9b7573e8545ebc85028a0bc2654899156b9fbeeec48096919d73"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0057",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182727.png",
+    "urls": {
+      "400": "doodle/400/pose_0057_400.jpg",
+      "1280": "doodle/1280/pose_0057_1280.jpg",
+      "2048": "doodle/2048/pose_0057_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 267,
+        "height": 400
+      },
+      "1280": {
+        "width": 657,
+        "height": 983
+      },
+      "2048": {
+        "width": 657,
+        "height": 983
+      }
+    },
+    "hash": {
+      "400": "sha256:f725f3f683661a2dcac1456f31d73c638d25375d66a00a539ca329910557a8f3",
+      "1280": "sha256:4dd025e96a17ca1ee254bd38e830999bd84501f74f2cb34b80cad9d538615e50",
+      "2048": "sha256:4dd025e96a17ca1ee254bd38e830999bd84501f74f2cb34b80cad9d538615e50"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0058",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835232288.png",
+    "urls": {
+      "400": "doodle/400/pose_0058_400.jpg",
+      "1280": "doodle/1280/pose_0058_1280.jpg",
+      "2048": "doodle/2048/pose_0058_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 384,
+        "height": 400
+      },
+      "1280": {
+        "width": 1000,
+        "height": 1043
+      },
+      "2048": {
+        "width": 1000,
+        "height": 1043
+      }
+    },
+    "hash": {
+      "400": "sha256:2d86ec8151ff769fb2114f1eb48e12eb1fe9e4ebd5a0d410f99b8ceb346807a9",
+      "1280": "sha256:c0b02609147941d23145059e12149af1a71d936d2c709c7603a7dcc4ebdfbe72",
+      "2048": "sha256:c0b02609147941d23145059e12149af1a71d936d2c709c7603a7dcc4ebdfbe72"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0059",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182748.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0059_400.jpg",
+      "1280": "doodle/1280/pose_0059_1280.jpg",
+      "2048": "doodle/2048/pose_0059_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 286,
+        "height": 400
+      },
+      "1280": {
+        "width": 735,
+        "height": 1027
+      },
+      "2048": {
+        "width": 735,
+        "height": 1027
+      }
+    },
+    "hash": {
+      "400": "sha256:962b445edc42c20f3bad98dcb5b6c23dabdb48ec7d3f80f8f9cced8d55774a99",
+      "1280": "sha256:3bcc3d03881354bfdaa65d9e5992322cb0c8946a3b92e3d65ad4a0bf577bbf57",
+      "2048": "sha256:3bcc3d03881354bfdaa65d9e5992322cb0c8946a3b92e3d65ad4a0bf577bbf57"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0060",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182985.png",
+    "urls": {
+      "400": "doodle/400/pose_0060_400.jpg",
+      "1280": "doodle/1280/pose_0060_1280.jpg",
+      "2048": "doodle/2048/pose_0060_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 301,
+        "height": 400
+      },
+      "1280": {
+        "width": 768,
+        "height": 1021
+      },
+      "2048": {
+        "width": 768,
+        "height": 1021
+      }
+    },
+    "hash": {
+      "400": "sha256:b202fe47219b696e56404a818fef07829e9c0ded8b7c2b02d54bd9011dd6e72f",
+      "1280": "sha256:0bef4a889168fc0da67c6aeadfd2b3d917dcd2153381212f8e3ac3ec41e301fb",
+      "2048": "sha256:0bef4a889168fc0da67c6aeadfd2b3d917dcd2153381212f8e3ac3ec41e301fb"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0061",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835214214.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0061_400.jpg",
+      "1280": "doodle/1280/pose_0061_1280.jpg",
+      "2048": "doodle/2048/pose_0061_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 281
+      },
+      "1280": {
+        "width": 1020,
+        "height": 716
+      },
+      "2048": {
+        "width": 1020,
+        "height": 716
+      }
+    },
+    "hash": {
+      "400": "sha256:f265107dd661ff0ce7b6cf63e12daddd2a3563ed7e28feb0606275d2d7922b83",
+      "1280": "sha256:3e7d6d43e0b623be9c0d5a53cd328432ae0645094a098801c7c18d5711a72ce2",
+      "2048": "sha256:3e7d6d43e0b623be9c0d5a53cd328432ae0645094a098801c7c18d5711a72ce2"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0062",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835182695.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0062_400.jpg",
+      "1280": "doodle/1280/pose_0062_1280.jpg",
+      "2048": "doodle/2048/pose_0062_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 290,
+        "height": 400
+      },
+      "1280": {
+        "width": 735,
+        "height": 1013
+      },
+      "2048": {
+        "width": 735,
+        "height": 1013
+      }
+    },
+    "hash": {
+      "400": "sha256:6c3ca477d5b83ce441d6429863819780893ade82960c33c90f065de6346223d6",
+      "1280": "sha256:b5556a0491ddbfab1a4f0c5307e24cd6909999235c935433a6d8da781e0f0368",
+      "2048": "sha256:b5556a0491ddbfab1a4f0c5307e24cd6909999235c935433a6d8da781e0f0368"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0063",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835172531.png",
+    "urls": {
+      "400": "doodle/400/pose_0063_400.jpg",
+      "1280": "doodle/1280/pose_0063_1280.jpg",
+      "2048": "doodle/2048/pose_0063_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 292
+      },
+      "1280": {
+        "width": 1000,
+        "height": 730
+      },
+      "2048": {
+        "width": 1000,
+        "height": 730
+      }
+    },
+    "hash": {
+      "400": "sha256:d894da852ab2acce0b078453fbee6feda13d699f10ad0279a89f89bf1d06600f",
+      "1280": "sha256:b817b9b2559d6080799911bfdfe7e4fbba3a6738ba706bde0ee0074c73044d7f",
+      "2048": "sha256:b817b9b2559d6080799911bfdfe7e4fbba3a6738ba706bde0ee0074c73044d7f"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
+  },
+  {
+    "id": "doodle_0064",
+    "source_file": "/Users/galahstudio/Documents/nuke/streak/foxar_/doodles/794111346835230729.jpg",
+    "urls": {
+      "400": "doodle/400/pose_0064_400.jpg",
+      "1280": "doodle/1280/pose_0064_1280.jpg",
+      "2048": "doodle/2048/pose_0064_2048.jpg"
+    },
+    "sizes": {
+      "400": {
+        "width": 400,
+        "height": 291
+      },
+      "1280": {
+        "width": 1000,
+        "height": 727
+      },
+      "2048": {
+        "width": 1000,
+        "height": 727
+      }
+    },
+    "hash": {
+      "400": "sha256:cda7e05ea448ab55e5435c4bafeadfde8dc2c9ce72b97fbe668d634329976bfa",
+      "1280": "sha256:3ca2768a9c49ba4410222b138f6347c2388986e80f6eb9fc82ae58148399bb9c",
+      "2048": "sha256:3ca2768a9c49ba4410222b138f6347c2388986e80f6eb9fc82ae58148399bb9c"
+    },
+    "license": "placeholder_unlicensed",
+    "allowInRelease": false,
+    "pack": "doodle"
   }
 ]
