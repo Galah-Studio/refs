@@ -1,0 +1,6 @@
+{
+  "packs": [
+    { "name": "pose",   "manifest": "packs/pose/manifest.json" },
+    { "name": "doodle", "manifest": "packs/doodle/manifest.json" }
+  ]
+}
