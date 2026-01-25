@@ -1,5 +1,5 @@
 [
-  { "id":"loomis_male_y30_p10_fov35",  "model":"loomis_male",   "yaw":30,  "pitch":10,  "distance":8.5, "fov":35, "label":"¾ high" },
-  { "id":"loomis_male_y-20_p0_fov50", "model":"loomis_male",   "yaw":-20, "pitch":0,   "distance":8.5, "fov":50 },
-  { "id":"loomis_female_y0_p-5_fov35","model":"loomis_female","yaw":0,   "pitch":-5,  "distance":8.5, "fov":35 }
+  {"id":"loomis_male_y30_p10_fov35","model":"loomis_male","yaw":30,"pitch":10,"distance":8.5,"fov":35,"label":"¾ high"},
+  {"id":"loomis_male_y-20_p0_fov50","model":"loomis_male","yaw":-20,"pitch":0,"distance":8.5,"fov":50},
+  {"id":"loomis_female_y0_p-5_fov35","model":"loomis_female","yaw":0,"pitch":-5,"distance":8.5,"fov":35}
 ]
